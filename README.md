@@ -10,7 +10,7 @@ My main goals were:
 - Exploratory data analysis and perform data cleaning 
 
 **Process Taken**
-- Importing Necessary Libraries: these libraries include pandas,matplotlib,numpy etc.
+- Importing Necessary Libraries: these libraries include pandas,numpy etc.
 - Loading and reading the Dataset
 - Dataset Overview
 - Exploratory Data Analysis; Summary Statistics
